@@ -1,0 +1,7 @@
+# Hello World Project Dependencies
+# No external dependencies required - uses Python standard library only
+
+# For development/testing (optional):
+# pytest>=7.0.0
+# mypy>=1.0.0
+# ruff>=0.1.0
